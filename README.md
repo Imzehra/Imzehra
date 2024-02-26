@@ -1,6 +1,6 @@
 👋 Hi, I’m Zehra ERTÜRK
-- 👀 intermediate python
-- 🌱 I’m currently learning ...
+- 👀 
+- 🌱 intermediate python
 - 💞️ 
 - 📫 zzehraerturk@gmail.com
 - 😄she
